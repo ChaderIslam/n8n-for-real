@@ -1,2 +1,52 @@
 captcha bypass web site "https://2captcha.com/api-docs"
+to run the selenum bots be aware that you are in the selenum directory and run : node 'file_name.js'
+to build the project run : "docker-compose build"
+to start the project run : "docker-compose up -d"
+
+
+
+
+
+
+✅ 1. Free Proxy Lists (For Testing Only)
+These are public, often unreliable and may be slow or already blacklisted:
+
+https://free-proxy-list.net
+
+https://www.sslproxies.org
+
+https://proxylist.geonode.com
+
+https://spys.one/en/
+
+https://hidemy.name/en/proxy-list/
+
+https://proxyscrape.com/free-proxy-list
+
+Each site provides:
+
+IP Address
+
+Port
+
+Protocol (HTTP, HTTPS, SOCKS4/5)
+
+Sometimes country or anonymity level
+
+⚠️ Use free proxies for light or non-critical use only — not for production bots.
+
+✅ 2. Paid Proxy Services (Reliable)
+If you're serious or need scale/consistency, use paid options:
+
+Bright Data – https://brightdata.com
+
+Oxylabs – https://oxylabs.io
+
+Smartproxy – https://smartproxy.com
+
+Soax – https://soax.com
+
+ScraperAPI – https://www.scraperapi.com
+
+GeoSurf, Zyte (Scrapy Cloud) – https://www.zyte.com
  
